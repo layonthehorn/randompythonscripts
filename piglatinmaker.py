@@ -2,10 +2,9 @@
 # Name:        puncuation remover
 # Purpose:
 #
-# Author:      thomas p dressel
+# Author:      layonthehorn
 #
 # Created:     17/06/2017
-# Copyright:   (c) catma 2017
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
